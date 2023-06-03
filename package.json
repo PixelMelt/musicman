@@ -1,0 +1,16 @@
+{
+  "name": "musicman",
+  "version": "1.0.0",
+  "description": "A multi source music downloader and library manager with last.fm integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
