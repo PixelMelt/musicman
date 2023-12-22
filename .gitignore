@@ -3,3 +3,4 @@ node_modules/*
 src/user_artists_cleaned.json
 src/user_songs.json
 src/user_artists.json
+fail.txt

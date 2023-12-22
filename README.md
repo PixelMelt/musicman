@@ -4,6 +4,11 @@ A multi source music downloader and library manager with last.fm integration
 # Highly WIP
 probably dont use yet
 
+# Needs:
+- last.fm api key
+- Deemix
+- Deemon
+
 # checklist till I would actually want people to use this
 - grab all of users artists from lastfm - done
 - filter out artists with less then variable listen counts - done
